@@ -1,5 +1,5 @@
 matplotlib
-jupyter-lab
+jupyterlab
 pandas
 numpy
 tqdm
